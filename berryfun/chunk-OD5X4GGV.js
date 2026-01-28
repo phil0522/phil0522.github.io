@@ -1,0 +1,1 @@
+import{Ta as n,nb as o}from"./chunk-UKFGIOHC.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-e2e-auth"]],decls:1,vars:0,consts:[["data-testid","e2e-auth-ready"]],template:function(e,p){e&1&&o(0,"div",0)},encapsulation:2})};export{a as E2eAuthComponent};
