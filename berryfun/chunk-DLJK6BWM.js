@@ -1,0 +1,1 @@
+function d(t){let n=t<0,r=`$${(Math.abs(t)/100).toFixed(2)}`;return n?`-${r}`:r}function m(t){return{returning_family:"\u{1F3E0}",returning_student:"\u{1F393}",sibling:"\u{1F468}\u200D\u{1F469}\u200D\u{1F467}\u200D\u{1F466}",multi_session:"\u{1F4C5}",coupon:"\u{1F39F}\uFE0F",manual:"\u270F\uFE0F",early_bird:"\u{1F426}",referral:"\u{1F44B}"}[t]??"\u{1F4B0}"}export{d as a,m as b};
